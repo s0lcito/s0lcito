@@ -37,8 +37,8 @@ Hi, I'm Camila, a geographer and environmental scientist based in Montreal. With
 ---
 
 ## Connect With Me ✧*:･ﾟ✧
-- **Portfolio**: [https://camilam.cargo.site/](#)
-- **LinkedIn**: [https://www.linkedin.com/in/c-medinavalero/](#)
+- **Portfolio**: [https://camilam.cargo.site/]
+- **LinkedIn**: [https://www.linkedin.com/in/c-medinavalero/]
 
 ---
 Thank you for visiting my GitHub page! Feel free to explore my repositories and reach out if you'd like to collaborate on environmental or geospatial projects.
